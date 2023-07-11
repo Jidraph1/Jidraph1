@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jidraph Kimachia
 - 👀 I’m interested in FullStack WebDevelopment
 - 🌱 I’m currently sharpening my skills in Javascript
-- 📫 You can reach me on: jidraphkimachia1@gmail.com
+- 📫 Training to be a Quality Assurance Tester.
 
 <!---
 Jidraph1/Jidraph1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jidraph Kimachia
 - 👀 I’m interested in FullStack WebDevelopment
-- 🌱 I’m currently sharpening my skills in Javascript
+- 🌱 I’m currently perfecting Javascript
 - 📫 Training to be a Quality Assurance Tester.
 
 <!---
